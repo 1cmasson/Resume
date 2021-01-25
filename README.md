@@ -1,6 +1,9 @@
 # [Welcome](carlosmasson.com)
 My name is Carlos Masson and this repository is to showcase my personal projects.
 
+# [Who am I?](https://www.linkedin.com/in/carlos-masson-29130a14a/)
+I am a Computer Science student with exposure to developing software applications. I graduate in August of 2021 from Florida International University. I have 5 years of work experience in The Home Depot as a merchandising associate and looking to become an engineer for the company. I may provide a beneficial impact to The Home Depot by bringing an knowledge and understanding of what the company's frontline workers do and may need.
+
 # [Bolt](https://github.com/carninojo15/bolt)
 Bolt is an application that is supposed to imitate the same software that is used in my job as a Home Depot Merchandising Associate. Bolt is a list that can add, delete, sort, and search for bays in a Home Depot Store.  It sorts and searches for datapoints like bay traffic, last time bay was serviced, time, and bay number. This was made using ReactJS. The second version of this application, BOLT 2.0, was made with a backend using Spring MVC.
 
